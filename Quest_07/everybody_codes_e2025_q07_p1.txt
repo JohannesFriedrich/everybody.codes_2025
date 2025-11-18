@@ -1,0 +1,17 @@
+Belendris,Lithendris,Lithzyph,Lithnar,Belzyph,Kynar,Kyendris,Belnar,Kyzyph
+
+r > i
+B > e
+K > y
+n > d,a
+l > e,z,n
+y > e,p,b
+i > s,b
+t > h
+z > y
+a > r
+L > i
+p > h
+d > r
+e > n,b
+h > e,z,n

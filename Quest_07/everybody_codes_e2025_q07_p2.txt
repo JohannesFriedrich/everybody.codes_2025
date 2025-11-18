@@ -1,0 +1,26 @@
+Marjorath,Tharvash,Xarindor,Arkynn,Wyrsarix,Drakadir,Kharadir,Arktaril,Jalynn,Marlon,Jalsarix,Xyrlon,Tharindor,Margarath,Xyrtaril,Tharynn,Rynynn,Arklon,Arkdin,Xyrindor,Tharadir,Marsarix,Draksarix,Marynn,Kharsarix,Xyrvash,Thardin,Draktaril,Wyrjorath,Draklon,Arkvash,Xyrsarix,Wyrvash,Jaladir,Kharindor,Marvash,Xaradir,Drakdin,Jalvash,Xyradir,Mardin,Arksarix,Jalindor,Jalgarath,Maradir,Ryndin,Thargarath,Wyrtaril,Drakindor,Rynjorath,Drakjorath,Kharvash,Drakgarath,Tharlon,Khardin,Arkgarath,Xyrynn,Jaltaril,Xargarath,Ryngarath,Tharjorath,Arkindor,Wyrdin,Rynvash,Xartaril,Jaldin,Tharsarix,Xarlon,Kharlon,Xarsarix,Wyrindor,Khartaril,Rynsarix,Drakvash,Martaril,Jaljorath,Kharynn,Wyrynn,Wyrgarath,Rynadir,Wyradir,Thartaril,Arkadir,Drakynn,Wyrlon,Kharjorath,Ryntaril,Rynindor,Rynlon,Khargarath,Marindor,Xyrdin,Xardin,Arkjorath,Xyrgarath,Jallon,Xarynn,Xarjorath,Xarvash,Xyrjorath
+
+K > h
+s > h,a
+o > r,n
+M > a
+v > a
+A > r
+r > a,j,l,g,y,v,t,i,s,d
+J > a
+l > o,j,l,g,y,v,a,t,i,s,d
+h > a,v
+D > r
+t > h,a
+k > j,l,g,y,v,a,t,i,s,d
+j > o
+a > r,d,t,s,v,k
+g > a
+R > y
+X > y,a
+i > r,l,n,x
+W > y
+y > n,v
+d > i,o
+n > n,d,j,l,g,y,v,a,t,i,s
+T > h
